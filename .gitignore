@@ -1,5 +1,7 @@
 /target/
-/.classpath
-/.project
-/.settings/
-/*.log
+/test-output/
+.classpath
+.project
+.settings/
+*.log
+src/
